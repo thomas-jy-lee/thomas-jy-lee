@@ -16,8 +16,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomas-jy-lee&show_icons=true&theme=radical)
 
-github-readme-stats
-
 <!--
 **thomas-jy-lee/thomas-jy-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
