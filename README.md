@@ -1,7 +1,11 @@
 ### Hi there 👋
 🌱 I'm currently learning Python & Rust Language
 
-<!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
+<!-- 
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> 
+-->
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -9,12 +13,11 @@
 
 <!--방문자 수-->
 <!-- 제작 사이트 https://hits.seeyoufarm.com -->
-<a href="https://www.tomandcode.blogspot.com" target="_blank"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthomas-jy-lee%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://www.tomandcode.blogspot.com" target="_blank">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ftomandcode.blogspot.com&count_bg=%237A7A7A&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 
 <a href="https://www.tomandcode.blogspot.com" target="_blank">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ftomandcode.blogspot.com&count_bg=%2379C83D&title_bg=%23FF8B00&icon=blogger.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <!--깃헙 스텟 이건 마크다운? -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomas-jy-lee&show_icons=true&theme=radical) 
