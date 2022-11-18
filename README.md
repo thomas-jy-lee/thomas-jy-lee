@@ -7,14 +7,16 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
 
-
-
-
+<!--방문자 수-->
+<!-- 제작 사이트 https://hits.seeyoufarm.com -->
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthomas-jy-lee%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ftomandcode.blogspot.com&count_bg=%2379C83D&title_bg=%23FF8B00&icon=blogger.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomas-jy-lee&show_icons=true&theme=radical)
+<!--깃헙 스텟 이건 마크다운? -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomas-jy-lee&show_icons=true&theme=radical) 
 
 <!--
 **thomas-jy-lee/thomas-jy-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
